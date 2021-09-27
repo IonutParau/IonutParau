@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there I am Ionut.
+
+I enjoy writing code in Dart.
+I also am maintaining a project called CelLuAPI, which is CelLua except with a modding API mods can use.
+
+Programming languages I know:
+<img src="https://camo.githubusercontent.com/7d29a31488409b4bb55a4388db2d18808cb7d8b0bd8b4c1d54145001e58b376a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c75612d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465">
 
 <!--
 **IonutParau/IonutParau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
