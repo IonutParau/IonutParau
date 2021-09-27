@@ -17,7 +17,7 @@ Programming languages I know:
 
 ### Frameworks I used:
 <div>
-<img src="https://img.shields.io/badge/-FLUTTER-informational?style=for-the-badge">
+<img src="https://img.shields.io/badge/-FLUTTER-informational?style=for-the-badge&logo=flutter">
 <img src="https://img.shields.io/badge/-LÖVE2D-ff69b4?style=for-the-badge">
 </div>
 <!--
