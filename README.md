@@ -17,7 +17,7 @@ Programming languages I know:
 
 ### Frameworks I used:
 <div>
-<img src="https://img.shields.io/badge/-FLUTTER-informational">
+<img src="https://img.shields.io/badge/?style=for-the-badge&-FLUTTER-informational">
 </div>
 <!--
 **IonutParau/IonutParau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
