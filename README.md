@@ -1,7 +1,6 @@
 ### Hi there I am Ionut.
 
-I enjoy writing code in Dart.
-I also am maintaining a project called CelLuAPI, which is CelLua except with a modding API mods can use.
+I like coding
 
 Programming languages I know:
 
